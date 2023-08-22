@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Super App</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_bio">Bio</string>
+    <string name="title_message">Message</string>
+    <string name="calculator">calculator</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="delete">Delete</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="addition">+</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="subtract">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="multiplication">*</string>
+    <string name="_0">0</string>
+    <string name="decimal">.</string>
+    <string name="equal">=</string>
+    <string name="divide">/</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="student_name">Bikram Tuladhar</string>
+    <string name="faculty">faculty</string>
+    <string name="semester">semester</string>
+    <string name="id_no">ID No</string>
+    <string name="_123456">123456</string>
+    <string name="validity_date">Validity Date</string>
+    <string name="validity">validity</string>
+    <string name="bar_code">bar code</string>
+    <string name="happy_thanksgiving">Happy Thanksgiving</string>
+</resources>
